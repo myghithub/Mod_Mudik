@@ -146,6 +146,14 @@
       },
       {
         "id": "19",
+        "tittle": "BUSSID MOD ISUZU ELF RACING V2",
+        "date": "2021-03-17",
+        "link_file": "https://archive.org/download/mod-isuzu-elf-v-2-by-azumods/MOD%20ISUZU%20ELF%20V2%20BY%20AZUMODS.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/69hM1H_us8s/hqdefault.jpg"
+      },
+      {
+        "id": "20",
         "tittle": "Elf Muatan Karung Hitan",
         "date": "2021-03-17",
         "link_file": "https://archive.org/download/pajero-sport-dakkar-2017-spesial-mudik/Mod%20BUSSID%20ELF%20Full%20Muatan%20Karung%20%E2%80%93%20Hitam.zip",
@@ -153,7 +161,7 @@
         "images": "https://emakgaming.com/wp-content/uploads/2020/05/Mod-BUSSID-Elf-Full-Muatan-Hitam-573x420.jpg"
       },
       {
-        "id": "11",
+        "id": "21",
         "tittle": "Bus Hino Mudik Lebaran",
         "date": "201-03-17",
         "link_file": "https://archive.org/download/pajero-sport-dakkar-2017-spesial-mudik/%20Mod%20Bussid%20Terbaru%20BUS%20Edisi%20Mudik%20Lebaran.zip",
